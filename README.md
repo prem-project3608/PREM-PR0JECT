@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=20&color=FFFF00&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR+PREM+BABU+🙂+🤞;PREM+PROGRAMMING;PREM+FCA+BOT;THANKYOU+FOR+USING+PREM+PROJECT&border=20px+solid+000000&speed=100)](https://git.io/typing-svg)
 
 ## <h3 align="center">CONTACT WITH ME</h3>
-<p align="left">
-<a href="https://fb.com/prembabu66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prembabu66" height="30" width="40" /></a>
+<p align="center">
+<a href="https://fb.com/prembabu66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prembabu66" height="50" width="50" /></a>
 <a href="https://instagram.com/prem_.status" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_.status" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@premfilm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@premfilm" height="30" width="40" /></a>
 </p>
