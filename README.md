@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=20&color=FFFF00&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR+PREM+BABU+🙂+🤞;PREM+PROGRAMMING;PREM+FCA+BOT;THANKYOU+FOR+USING+PREM+PROJECT&border=20px+solid+000000&speed=100)](https://git.io/typing-svg)
 
 ## **<h3 align="center">CONTACT WITH ME</h3>**
-<p align="center">
+<p align="left">
 <a href="https://fb.com/prembabu66" target="blank" style="float: left;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"alt="prembabu66"height="50"width="50"/></a>
 <a href="https://www.youtube.com/c/@premfilm" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@premfilm"height="70"width="70"/></a>
 <a href="https://instagram.com/prem_.status" target="blank" style="float: right;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"alt="prem_.status" height="60" width="60"/></a>
