@@ -4,7 +4,7 @@
   
 </h3>
 
-- THIS IS [PREM PROJECT](https://github.com/prem-project3608)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=20&color=FFFF00&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR+PREM+BABU+🙂+🤞;PREM+PROJECT+FYT+BOT;PREM+FCA+BOT;THANKYOU+FOR+USING+PREM+PROJECT&border=20px+solid+000000&speed=100)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
