@@ -9,8 +9,10 @@
 ## **<h3 align="center">CONTACT WITH ME</h3>** 
 <p align="center">
 <a href="https://fb.com/prembabu66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prembabu66" height="50" width="50" /></a>
-<a href="https://instagram.com/prem_.status" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_.status" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@premfilm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@premfilm" height="30" width="40" /></a>
+<a href="https://instagram.com/prem_.status" target="blank"><img align="center" 
+                                                              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_.status" height="50" width="50" /></a>
+<a href="https://www.youtube.com/c/@premfilm" target="blank"><img align="center" 
+                                                               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@premfilm" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
